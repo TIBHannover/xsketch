@@ -1,3 +1,12 @@
+---
+title: "X-Sketchbook - Publishing and Place"
+date: 2021-02-05 15:00:00 +0100
+categories: call
+image: https://raw.githubusercontent.com/TIBHannover/xsketch/main/images/semantic-publishing.jpg
+vertical: Code
+excerpt: " "
+---
+
 # X-Sketchbook: Publishing and Place
 
 architectural design practice and the sketchbook of the future
