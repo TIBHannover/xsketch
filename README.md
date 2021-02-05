@@ -1,3 +1,20 @@
+---
+layout: post
+title: "A Citizen Science Guide for Research Libraries"
+date: 2021-02-05 12:00:00 +0100
+categories: call
+image: https://blogs.tib.eu/wp/tib/wp-content/uploads/sites/3/2020/11/semantic-publishing-800x765-1.png
+vertical: Code
+excerpt: " "
+---
+
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "openSidebar": true
+  }
+</script>
+<script async src="https://hypothes.is/embed.js"></script>
+
 # X-Sketchbook: Publishing and Place
 
 architectural design practice and the sketchbook of the future
