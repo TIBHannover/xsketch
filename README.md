@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Citizen Science Guide for Research Libraries"
+title: "X-Sketchbook: Publishing and Place"
 date: 2021-02-05 12:00:00 +0100
 categories: call
 image: https://blogs.tib.eu/wp/tib/wp-content/uploads/sites/3/2020/11/semantic-publishing-800x765-1.png
