@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "X-Sketchbook - Publishing and Place"
 date: 2021-02-05 15:00:00 +0100
 categories: call
@@ -7,9 +8,7 @@ vertical: Code
 excerpt: " "
 ---
 
-# X-Sketchbook: Publishing and Place
-
-architectural design practice and the sketchbook of the future
+*architectural design practice and the sketchbook of the future*
 
 05 Feb 2021
 
