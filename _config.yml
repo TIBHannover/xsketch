@@ -7,10 +7,9 @@ tags:
   - book
   - computational publishing
   - data science
-plugins:
-  - jekyll-seo-tag
+plugins: jekyll-seo-tag
 twitter:
   username: mrchristian99
-image: https://raw.githubusercontent.com/TIBHannover/xsketch/main/images/semantic-publishing.jpg
+image: /images/semantic-publishing.jpg
 author:
   twitter: mrchristian99
