@@ -8,6 +8,8 @@ vertical: Code
 excerpt: " "
 ---
 
+# X-Sketchbook - Publishing and Place
+
 *architectural design practice and the sketchbook of the future*
 
 05 Feb 2021
