@@ -45,3 +45,7 @@ Ideas for contributions from OSL could be:
   - André Castro and mapping publication in Wikidata to make a KG of a publication
   - Sandra Mierz including work in DataCite Commons
   - Nils Casties and Janine Doerry geolocative and architecture
+
+Notes
+
+https://demo.hedgedoc.org/s/IhAAEfADb
